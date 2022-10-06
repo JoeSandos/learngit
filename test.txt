@@ -20,4 +20,4 @@ git commit的反向命令git reset HEAD，就是把仓库最新版本转移到�
 
 
 feature1 only
-feature1 only?!
+master only?!
